@@ -84,39 +84,10 @@
 6.Run the Flutter app on an Android device or emulator:
  flutter run
 
-## Screenshots
 
-| **SignUp Screen** | **SignIn Screen** |
-|:---:|:---:|
-| ![SignUp Screen](https://github.com/user-attachments/assets/f3c9ef2e-eb27-435d-82d0-d0e32bb03893) | ![feed_screen1](https://github.com/user-attachments/assets/527fb2f7-0cdc-424d-bc14-3cbd7aa45f25) |
+## UI Previews
 
-| **SignIn Screen with User Input** | **Home Screen** |
-|:---:|:---:|
-| ![sign_in_with_id](https://github.com/user-attachments/assets/54f73a8a-888a-4bc9-bd9f-331c600f9a41) | ![home_screen](https://github.com/user-attachments/assets/6718c0c4-7ddd-4183-a3e3-cde5212393a8)
-
-
-| **Home Screen** | **Home Screen** |
-|:---:|:---:|
-| ![home_screen_2](https://github.com/user-attachments/assets/f3fe0041-2e17-43af-afe4-97f8fbd24292) |  ![home_screen_3](https://github.com/user-attachments/assets/fbb56ccb-6be2-4778-a022-3856423b3220)
-
-
-| **Upload Song** | **Upload Song Screen** |
-|:---:|:---:|
-| ![upload_songs](https://github.com/user-attachments/assets/fd7a44b1-ecf8-4841-a207-98629a0643e1) | ![upload_song_screen](https://github.com/user-attachments/assets/c14d5471-5d1c-4962-8d28-f0fa74f70029)
-
-
-| **Upload Song** | **Upload Song with Color Picker** |
-|:---:|:---:|
-| ![upload_song_screen1](https://github.com/user-attachments/assets/695f6c1c-3d51-4372-ace9-b0aff689b7e4) |![upload_song2](https://github.com/user-attachments/assets/f904239b-8eaa-4467-a7a2-b1770abd8e95)
+![Untitled (1)](https://github.com/user-attachments/assets/ddc4a70d-27f1-4c4c-82e4-b10f828b4a28)
 
 
 
-| **Song Play Screen** | **Song Play Screen** |
-|:---:|:---:|
-| ![song_screen](https://github.com/user-attachments/assets/2dbf71c8-dc48-4031-9ea4-e4b775faeae3) | ![song_screen1](https://github.com/user-attachments/assets/c8ab455c-bda8-4726-a46f-4d21390cb7a2)
-
-
-
-| **Song Latest Played** | **Songs Liked** |
-|:---:|:---:|
-| ![song_latest_played](https://github.com/user-attachments/assets/a8d9b60f-1dfe-4b89-8ecf-f196f297a384) | ![liked_songs](https://github.com/user-attachments/assets/c8a72d3f-c990-4ab5-8746-6157e29d8ab5)
